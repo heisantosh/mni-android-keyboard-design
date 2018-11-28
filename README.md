@@ -27,6 +27,14 @@ Number of total characters in meitei mayek script:
 
 ![Primary layout](https://raw.githubusercontent.com/heisantosh/mni-android-keyboard-design/master/primary_layout.png)
 
+On the last row:
+
+꯫ . (<em>cheikhei</em> dot) : cheikhei will be used more often than dot
+
+,  ꯬  (comma <em>lum</em>) : , will be used more often than lum
+
+
+
 ![Extensions layout](https://raw.githubusercontent.com/heisantosh/mni-android-keyboard-design/master/extensions_layout.png)
 
 ![Numbers layout](https://raw.githubusercontent.com/heisantosh/mni-android-keyboard-design/master/numbers_layout.png)
