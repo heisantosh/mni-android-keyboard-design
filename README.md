@@ -25,7 +25,11 @@ Number of total characters in meitei mayek script:
 
 ## New design
 
-![Keyboard Layouts](https://raw.githubusercontent.com/heisantosh/mni-android-keyboard-design/master/layouts.png)
+![Primary layout](https://raw.githubusercontent.com/heisantosh/mni-android-keyboard-design/master/primary_layout.png)
+
+![Extensions layout](https://raw.githubusercontent.com/heisantosh/mni-android-keyboard-design/master/extensions_layout.png)
+
+![Numbers layout](https://raw.githubusercontent.com/heisantosh/mni-android-keyboard-design/master/numbers_layout.png)
 
 ## Rationale of this design
 
