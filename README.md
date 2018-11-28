@@ -20,7 +20,7 @@ Number of total characters in meitei mayek script:
 * 10 cheising characters (10 digits)
 
 ## Issues with the existing layout in Gboard
-* Some characters are missing - (apun), (onap), (nung)
+* Some characters are missing - (apun), (onap), (nung), (lum)
 * Standard and historical characters are mixed up
 
 ## New design
