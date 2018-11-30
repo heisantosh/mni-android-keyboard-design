@@ -31,7 +31,7 @@ On the last row:
 
 ꯫ . (<em>cheikhei</em> dot) : cheikhei will be used more often than dot
 
-,  ꯬  (comma <em>lum</em>) : , will be used more often than lum
+,  ꯬  (comma <em>lum</em>) : comma will be used more often than lum
 
 
 
@@ -58,3 +58,7 @@ This design includes all the standard characters. It also separates the standard
 
 ### Extension characters layout:
 * The extension characters are historical and not usually used in print and media. So a separate view.
+
+
+## Huiyen Lanpao Manipur Daily Meeteilon Edition: 
+http://hueiyenlanpao.com/meeteilon/
